@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sweet Merienda</title>
+</head>
+<body>
+    <header>
+        <h1>Sweet Merienda</h1>
+        <h2>Delicious Desserts & Snacks for Pre-Ordering</h2>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="sweets.html">Sweets</a></li>
+                <li><a href="snacks.html">Snacks</a></li>
+                <li><a href="about.html">About Me</a></li>
+                <li><a href="locations.html">Locations</a></li>
+                <li><a href="reviews.html">Reviews</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <section>
+        <article>
+            <h2>Welcome to Sweet Merienda!</h2>
+            <p>Your go-to place for delicious homemade sweets and snacks, available for pre-order.</p>
+            <p>Explore our menu and enjoy a taste of Filipino and international delicacies.</p>
+        </article>
+    </section>
+    
+    <section>
+        <h2>Featured Items</h2>
+        <p>Check out our popular desserts and snacks:</p>
+        <ul>
+            <li><strong>Fried Doughssert</strong> - Fried dough with various topping options.</li>
+            <li><strong>Leche Flan</strong> - A rich, creamy Filipino caramel custard.</li>
+            <li><strong>Bibingka</strong> - A traditional Filipino rice cake.</li>
+            <li><strong>Ube Cheesecake</strong> - A vibrant, creamy purple yam cheesecake.</li>
+        </ul>
+    </section>
+    
+    <section>
+        <h2>Contact Us</h2>
+        <form action="#" method="post">
+            <label for="name">Name:</label>
+            <input type="text" id="name" name="name" required><br>
+            
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email" required><br>
+            
+            <label for="message">Message:</label>
+            <textarea id="message" name="message" required></textarea><br>
+            
+            <input type="submit" value="Send">
+        </form>
+    </section>
+    
+    <footer>
+        <p>&copy; 2025 Sweet Merienda | Follow us on social media for updates and promotions.</p>
+    </footer>
+</body>
+</html>
