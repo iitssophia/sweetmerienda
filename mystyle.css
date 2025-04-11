@@ -112,3 +112,16 @@ footer {
     margin-top: 20px;
     border-top: 1px solid #ccc;
 }
+
+.horizontal-list {
+    list-style-type: none; 
+    display: flex;         
+    gap: 20px;             
+    padding: 0;           
+    justify-content: center; 
+}
+.horizontal-list li a {
+    text-decoration: none;
+    color: #120503;
+    font-weight: bold;
+}
