@@ -164,28 +164,28 @@ nav ul li {
     margin-right: 20px;
     }
     
-    .social-buttons {
-        text-align: center;
-        margin-top: 10px;
-      }
+.social-buttons {
+   text-align: center;
+    margin-top: 10px;
+  }
       
-      .social-buttons button {
-        font-family: 'Roboto', sans-serif;
-        background-color: #4267B2; /* Facebook Blue */
-        color: white;
-        border: none;
-        padding: 10px 16px;
-        margin: 5px;
-        border-radius: 8px;
-        cursor: pointer;
-        font-size: 14px;
-        transition: background-color 0.3s;
-      }
+.social-buttons button {
+    font-family: 'Roboto', sans-serif;
+    background-color: #4267B2; /* Facebook Blue */
+    color: white;
+    border: none;
+    padding: 10px 16px;
+    margin: 5px;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 14px;
+    transition: background-color 0.3s;
+  }
       
-      .social-buttons button#share-twitter {
-        background-color: #1DA1F2; /* Twitter Blue */
-      }
+.social-buttons button#share-twitter {
+    background-color: #1DA1F2; /* Twitter Blue */
+  }
       
-      .social-buttons button:hover {
-        opacity: 0.85;
-      }
+.social-buttons button:hover {
+    opacity: 0.85;
+  }
