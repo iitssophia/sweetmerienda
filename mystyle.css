@@ -154,3 +154,13 @@ footer {
     height: auto;
     border-radius: 8px;
 }
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    }
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+    }
+    
