@@ -186,3 +186,8 @@ nav ul li {
 .social-buttons button:hover {
     opacity: 0.85;
 }
+
+.center-text {
+    text-align: center;
+  }
+  
